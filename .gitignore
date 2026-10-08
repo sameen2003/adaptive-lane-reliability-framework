@@ -1,0 +1,46 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.temp
+
+# Generated outputs
+outputs/
+runs/
+
+# Large video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Model files
+*.pt
+*.pth
+*.onnx
